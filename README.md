@@ -1,10 +1,21 @@
-Projeto desenvolvido para aprender Next.js 15 e gerenciamento de estado global com Zustand.
+Turbina 2026 - Gestão de Mercado com Zustand
 
-🛠️ Tecnologias
-Next.js (App Router)
+Este projeto é uma aplicação de gerenciamento de mercado desenvolvida com Next.js 15 e Zustand, focada em performance e persistência de dados local.
 
-Zustand (State Management com Persistência)
+Link do Projeto
 
-Tailwind CSS (Estilização Vibrante)
+Acesse agora: https://falasembloqueio-create.github.io/turbina-2026/
 
-TypeScript
+Tecnologias Utilizadas
+
+  - Next.js 15 (App Router)
+  - Zustand (Gerenciamento de estado com persistência)
+  - TypeScript
+  - Tailwind CSS
+  - GitHub Actions (Deploy automatizado)
+
+Funcionalidades
+
+  - Adição e remoção de itens em tempo real.
+  - Persistência de dados (os itens continuam lá mesmo após recarregar a página).
+  - Interface responsiva e otimizada.
